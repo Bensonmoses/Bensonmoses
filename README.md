@@ -11,6 +11,9 @@
   <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/-bpalapar@stevens.edu-95A5A6?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="tel:+15516976451"><img src="https://img.shields.io/badge/-+1 551--697--6451-3498DB?style=for-the-badge&logo=Phone&logoColor=white"/></a>
   <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/benson-moses-palaparthi-061591217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/bensonmoses" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+
 </p>
 
 ## PROFILE SUMMARY
