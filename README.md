@@ -4,12 +4,19 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 
 ### Skills
 • Programming Languages: SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark MLlib)
+
 • Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
+
 • Databases: Hadoop, Apache Spark
+
 • Data Science Techniques & Libraries: Supervised Learning, Unsupervised Learning, PyTorch, TensorFlow
+
 • Mathematics For Machine Learning & Deep Learning: Algebra, Probability, Statistics, Calculus, Matrices
+
 • Deep Learning Models: Artificial Neural Networks, Convolutional and Recurrent Neural Networks
+
 • IDEs: Visual Studio Code, PyCharm, Jupyter Notebook
+
 • Soft Skills: Problem-Solving, communication skills, Teamwork and Collaboration, Critical Thinking, cross-functional
 
 ### Education
