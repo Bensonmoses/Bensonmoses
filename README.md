@@ -1,18 +1,21 @@
 # Benson Moses Palaparthi
 
- <p align="Left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Location-New Jersey, U.S.-blue?style=flat-square&logo=map-pin&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Looking For-Data Science, Data Analyst / Business Analyst / Machine Learning Engineering.-Green?style=flat-square&logo=map-pin&logoColor=white"/></a>
+# Benson Moses Palaparthi
 
+<p align="left">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Location%3A%20New%20Jersey%2C%20U.S.-blue?style=flat-square&logo=map-pin&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Looking%20For%3A%20Data%20Science%2C%20Data%20Analyst%20%2F%20Business%20Analyst%20%2F%20Machine%20Learning%20Engineering-green?style=flat-square&logo=search&logoColor=white"/></a>
 </p>
 
 ## Connect with me:
-<p align="Left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-Bpalapar@stevens.edu.-blue?style=flat-square&logo=map-pin&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mobile-+1 551 697 6451.-blue?style=flat-square&logo=map-pin&logoColor=white"/></a>
-  <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/benson-moses-palaparthi-061591217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/bensonmoses" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<p align="left">
+  <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/Email-bpalapar@stevens.edu-9c27b0?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+15516976451" target="_blank"><img src="https://img.shields.io/badge/Mobile-%2B1%20551%20697%206451-orange?style=flat-square&logo=phone&logoColor=white"/></a>
+  <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/benson-moses-palaparthi-061591217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/bensonmoses" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
+
 
 
 
