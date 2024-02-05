@@ -46,11 +46,14 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 • Employed Matplotlib for data visualization, split and scaled data for a Logistic Regression and SVM classifier model to predict bank client churn.
 • Applied SMOTE to address class imbalance, focusing on factors like credit score and age for churn prediction.
 
-## Education
-### Stevens Institute of Technology | Hoboken, NJ
-- Master of Science in Computer Science, Minor in Machine Learning...
-### Bharath Institute of Higher Education and Research | Chennai, India
-- Bachelor of Technology in Computer Science and Engineering...
+## Stevens Institute of Technology | Hoboken, NJ January 2022 – December 2023
+• Master of Science in Computer Science, Minor in Machine Learning
+• Coursework: Fundamentals of Machine Learning and Applications, Applied Machine Learning, Deep Learning, AI
+
+## Bharath Institute of Higher Education and Research | Chennai, India August 2017 – May 2021
+• Bachelor of Technology in Computer Science and Engineering
+• Coursework: Data Structures and Algorithms, OOPS, Data Base Management System
+
   
 ## Certifications / Achievements
 - Elements of AI Certification, University of Alabama, January 2022
