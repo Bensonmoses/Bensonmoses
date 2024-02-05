@@ -1,6 +1,6 @@
 # Benson Moses Palaparthi
 
-<p align="center">
+<p align="Left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Location-3498DB?style=for-the-badge&logo=map-pin&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-New Jersey, U.S-95A5A6?style=for-the-badge&logo=Location&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data Science-27AE60?style=for-the-badge&logo=Location&logoColor=white"/></a>
