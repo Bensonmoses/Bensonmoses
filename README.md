@@ -20,7 +20,7 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 • **Soft Skills:** Problem-Solving, communication skills, Teamwork and Collaboration, Critical Thinking, cross-functional
 
 ### Education
-- Master of Computer Science, [University Name], [Graduation Year]
+- Master of Computer Science, [Stevens Institute of Technology], [2023]
 
 ### Certifications
 - Certified Data Analyst, [Certification Provider], [Year]
