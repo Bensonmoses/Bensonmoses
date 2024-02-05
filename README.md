@@ -12,6 +12,26 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 • IDEs: Visual Studio Code, PyCharm, Jupyter Notebook
 • Soft Skills: Problem-Solving, communication skills, Teamwork and Collaboration, Critical Thinking, cross-functional
 
+### Education
+- Master of Computer Science, [University Name], [Graduation Year]
+
+### Certifications
+- Certified Data Analyst, [Certification Provider], [Year]
+- Machine Learning Specialization, [Online Course Provider], [Year]
+
+### Projects
+- [Project 1 Title](Link to Project Repository) - A brief description of the project and your role.
+- [Project 2 Title](Link to Project Repository) - Another project description.
+
+### Publications
+- [Title of Publication](Link to Publication) - Description or summary of the publication.
+
+### GitHub Activity
+[![GitHub Activity](https://github.com/BensonMosesPalaparthi/BensonMosesPalaparthi/actions/workflows/github-activity.yml/badge.svg)](https://github.com/BensonMosesPalaparthi/BensonMosesPalaparthi/actions)
+
+### Badges and Awards
+- [Badge 1](Link to Badge) - Description or reason for the badge.
+- [Badge 2](Link to Badge) - Another badge description.
 
 
 
