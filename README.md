@@ -1,5 +1,11 @@
 # Benson Moses Palaparthi
-[New Jersey, U.S](#) | bpalapar@stevens.edu | +1 551-697-6451 | [GitHub](https://github.com/Bensonmoses?tab=repositories)
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-New Jersey, U.S-0077B5?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/-bpalapar@stevens.edu-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="tel:+15516976451"><img src="https://img.shields.io/badge/-+1 551--697--6451-0077B5?style=for-the-badge&logo=Phone&logoColor=white"/></a>
+  <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</p>
 
 ## PROFILE SUMMARY
 I'm a recent Computer Science Master's graduate with a focus on machine learning and data analytics. Skilled in data analysis and deep learning, I have hands-on experience from projects and internships, including one with BCG Data Science Job Simulation on Forage. Actively seeking roles in data science for my problem-solving abilities and adaptability.
