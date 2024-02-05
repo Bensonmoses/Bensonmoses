@@ -1,18 +1,17 @@
 # Benson Moses Palaparthi
 
 <p align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-New Jersey, U.S-0077B5?style=for-the-badge&logo=Location&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data Science, U.S-0077B5?style=for-the-badge&logo=Location&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data / Business Analyst, U.S-0077B5?style=for-the-badge&logo=Location&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Machine Learning Engineer, U.S-0077B5?style=for-the-badge&logo=Location&logoColor=white"/></a>
-
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-New Jersey, U.S-34495E?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data Science, U.S-27AE60?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data / Business Analyst, U.S-F39C12?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Machine Learning Engineer, U.S-8E44AD?style=for-the-badge&logo=Location&logoColor=white"/></a>
 </p>
 
-# Connect with me::
+## Connect with me:
 <p align="center">
-  <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/-bpalapar@stevens.edu-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="tel:+15516976451"><img src="https://img.shields.io/badge/-+1 551--697--6451-0077B5?style=for-the-badge&logo=Phone&logoColor=white"/></a>
-  <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/-bpalapar@stevens.edu-95A5A6?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="tel:+15516976451"><img src="https://img.shields.io/badge/-+1 551--697--6451-3498DB?style=for-the-badge&logo=Phone&logoColor=white"/></a>
+  <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
 ## PROFILE SUMMARY
