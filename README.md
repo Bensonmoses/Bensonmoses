@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a recent Computer Science Master's graduate with a focus on machine learning and data analytics. Skilled in data analysis and deep learning, I have hands-on experience from projects and internships, including one with BCG Data Science Job Simulation on Forage. Actively seeking roles in data science for my problem-solving abilities and adaptability 👋
 
 <!--
 **Bensonmoses/Bensonmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
