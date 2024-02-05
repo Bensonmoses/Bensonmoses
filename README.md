@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-New Jersey, U.S-34495E?style=for-the-badge&logo=Location&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data Science, U.S-27AE60?style=for-the-badge&logo=Location&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data / Business Analyst, U.S-F39C12?style=for-the-badge&logo=Location&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Machine Learning Engineer, U.S-8E44AD?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data Science-27AE60?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Data / Business Analyst-F39C12?style=for-the-badge&logo=Location&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Machine Learning Engineer-8E44AD?style=for-the-badge&logo=Location&logoColor=white"/></a>
 </p>
 
 ## Connect with me:
