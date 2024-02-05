@@ -1,6 +1,7 @@
-###  Benson Moses Palaparthi
-#### Data Science / Data Analyst / Business Analyst / Machine Learning Engineer
-I'm a recent Computer Science Master's graduate with a focus on machine learning and data analytics. Skilled in data analysis and deep learning, I have hands-on experience from projects and internships, including one with BCG Data Science Job Simulation on Forage. Actively seeking roles in data science for my problem-solving abilities and adaptability
+
+
+## Profile Summary
+I'm a recent Computer Science Master's graduate with a focus on machine learning and data analytics. Skilled in data analysis and deep learning, I have hands-on experience from projects and internships, including one with BCG Data Science Job Simulation on Forage. Actively seeking roles in data science for my problem-solving abilities and adaptability.
 
 ### Skills
 • **Programming Languages**: SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark MLlib)
@@ -19,26 +20,40 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 
 • **Soft Skills:** Problem-Solving, communication skills, Teamwork and Collaboration, Critical Thinking, cross-functional
 
-### Education
-- Master of Computer Science, [Stevens Institute of Technology], [2023]
+## Work Experience
+### BCG Data Science Job Simulation on Forage | Virtual Internship
+- Conducted a detailed customer churn analysis for XYZ Analytics...
+- Performed effective data analysis employing Python...
+- Engineered and optimized a Random Forest model...
+- Prepared a concise executive summary for the Associate Director...
 
-### Certifications
-- Certified Data Analyst, [Certification Provider], [Year]
-- Machine Learning Specialization, [Online Course Provider], [Year]
+### Stevens Institute of Technology | Hoboken, NJ
+#### Notetaker for CS 583 (Deep Learning)
+- Prepared lecture notes throughout each week for CS 583 student...
+#### Student Food service Worker
+- Fulfilled orders for packed meals in a fast-paced environment...
 
-### Projects
-- [Project 1 Title](Link to Project Repository) - A brief description of the project and your role.
-- [Project 2 Title](Link to Project Repository) - Another project description.
+## Academic Projects
+### Predicting Student Performance Based on Their Exam Marks (ML Project)
+- Forecasted student performance in mathematics based on performance in various subjects...
+- Model with 89% accuracy deployed model on a web app...
+### Predicting Cooling Load with Lasso-Ridge-Elastic Net Models (ML Project)
+- Performed cooling load estimation using Lasso, Ridge, and Elastic Net regression models...
+- Ridge regression model exhibited lowest mean square error (MSE)...
+### Bank Churn SMOTE Imbalance dataset using Logistic Regression and SVM (ML)
+- Employed Matplotlib for data visualization, split and scaled data...
+- Applied SMOTE to address class imbalance...
 
-### Publications
-- [Title of Publication](Link to Publication) - Description or summary of the publication.
+## Education
+### Stevens Institute of Technology | Hoboken, NJ
+- Master of Science in Computer Science, Minor in Machine Learning...
+### Bharath Institute of Higher Education and Research | Chennai, India
+- Bachelor of Technology in Computer Science and Engineering...
+  
+## Certifications / Achievements
+- Elements of AI Certification, University of Alabama, January 2022
 
-### GitHub Activity
-[![GitHub Activity](https://github.com/BensonMosesPalaparthi/BensonMosesPalaparthi/actions/workflows/github-activity.yml/badge.svg)](https://github.com/BensonMosesPalaparthi/BensonMosesPalaparthi/actions)
-
-### Badges and Awards
-- [Badge 1](Link to Badge) - Description or reason for the badge.
-- [Badge 2](Link to Badge) - Another badge description.
-
-
+[LinkedIn Profile](Link to LinkedIn Profile)
+[Personal Website](Link to Personal Website)
+[Resume](Link to Resume PDF)
 
