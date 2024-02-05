@@ -1,5 +1,5 @@
 # Benson Moses Palaparthi
-New Jersey, U.S | bpalapar@stevens.edu | +1 551-697-6451 | [GitHub](https://github.com/Bensonmoses?tab=repositories)
+[New Jersey, U.S](#) | bpalapar@stevens.edu | +1 551-697-6451 | [GitHub](https://github.com/Bensonmoses?tab=repositories)
 
 ## PROFILE SUMMARY
 I'm a recent Computer Science Master's graduate with a focus on machine learning and data analytics. Skilled in data analysis and deep learning, I have hands-on experience from projects and internships, including one with BCG Data Science Job Simulation on Forage. Actively seeking roles in data science for my problem-solving abilities and adaptability.
