@@ -7,8 +7,8 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/-bpalapar@stevens.edu-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="tel:+15516976451"><img src="https://img.shields.io/badge/-+1 551--697--6451-orange?style=for-the-badge&logo=Phone&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/E-mail-Bpalapar@stevens.edu.-blue?style=flat-square&logo=map-pin&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mobile-+1 551-697-6451.-blue?style=flat-square&logo=map-pin&logoColor=white"/></a>
   <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-2C3E50?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/benson-moses-palaparthi-061591217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.kaggle.com/bensonmoses" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
