@@ -12,8 +12,6 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 • IDEs: Visual Studio Code, PyCharm, Jupyter Notebook
 • Soft Skills: Problem-Solving, communication skills, Teamwork and Collaboration, Critical Thinking, cross-functional
 
-- 🔭 I’m currently working on this page. 
-
 
 
 
