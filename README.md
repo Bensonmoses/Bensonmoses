@@ -49,7 +49,7 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 
 ## ACADEMIC PROJECTS
 
-### Predicting Student Performance Based on Their Exam Marks (ML Project) | [Website](#) | January 2023 – Present
+### Predicting Student Performance Based on Their Exam Marks (ML Project) | [Website](https://github.com/Bensonmoses/Predicting-Student-Performance-Based-on-Exam-Marks.git) | January 2023 – Present
 - Forecasted student performance in mathematics based on performance in various subjects and everyday activities.
 - Obtained and pre-processed dataset from Kaggle, and trained different machine-learning models.
 - Model with 89% accuracy deployed model on a web app employing Amazon Web Service Elastic Beanstalk.
