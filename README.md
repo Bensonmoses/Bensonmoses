@@ -1,8 +1,8 @@
 # Benson Moses Palaparthi
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Location-New Jersey, U.S-blue?style=for-the-badge&logo=map-pin&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Looking%20For%3A%20Data%20Science%2C%20Data / Business Analyst, Machine%20Learning%20Engineering-green?style=for-the-badge&logo=search&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Location-New_Jersey,_U.S.-blue?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location: New Jersey, U.S."/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Looking_For-Data_Science,_Data_Business_Analyst,_Machine_Learning_Engineering-green?style=for-the-badge&logo=search&logoColor=white" alt="Looking For: Data Science, Data / Business Analyst, Machine Learning Engineering"/></a>
 </p>
 
 
