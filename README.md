@@ -119,10 +119,10 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 - Contributed to the success of community events at Hoboken Grace.
 
 ### Friday Night Social Gatherings Participant | International Friendships, Inc. July 2023 - Present
-- Active member of IFI (International Fellowship) community, regularly attending Friday night gatherings.
-- 
-- Engage in social activities, including board games and discussions on various topics, fostering a sense of community and connection.
-- 
-- Contribute to meaningful conversations about the Bible and social issues, promoting personal and spiritual growth.
-- 
-- Volunteered to assist in setting up chairs and organizing meeting spaces, demonstrating dedication to enhancing the group's experience.
+### Active member of IFI (International Fellowship) community, regularly attending Friday night gatherings.
+
+### Engage in social activities, including board games and discussions on various topics, fostering a sense of community and connection.
+
+### Contribute to meaningful conversations about the Bible and social issues, promoting personal and spiritual growth.
+
+### Volunteered to assist in setting up chairs and organizing meeting spaces, demonstrating dedication to enhancing the group's experience.
