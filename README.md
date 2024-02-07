@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Location%3A%20New%20Jersey%2C%20U.S.-blue?style=for-the-badge&logo=map-pin&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Looking%20For%3A%20Data%20Science%2C%20Data / Business Analyst%20%2F%20Machine%20Learning%20Engineering-green?style=for-the-badge&logo=search&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Looking%20For%3A%20Data%20Science%2C%20Data / Business Analyst, Machine%20Learning%20Engineering-green?style=for-the-badge&logo=search&logoColor=white"/></a>
 </p>
 
 
