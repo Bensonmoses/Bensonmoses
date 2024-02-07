@@ -20,7 +20,7 @@
 
 
 ## PROFILE SUMMARY
-I am a Master's graduate in Computer Science, specializing in Machine Learning and Data Analytics. With robust skills in data analysis and deep learning, I have enriched my expertise through diverse projects and an impactful internship, notably with BCG Data Science Job Simulation on Forage. Actively seeking roles in data science, I am eager to apply my problem-solving abilities and adaptability in a dynamic work environment.
+I'm a Master's graduate in Computer Science with a focus on machine learning and data analytics, skilled in programming (SQL, Python), data visualization (Matplotlib, Seaborn, Tableau), and deep learning models (ANNs, CNNs, RNNs). My experience includes a data science internship with BCG, notetaking for deep learning courses, and various projects on predicting student performance, cooling load estimation, bank churn, and customer churn prediction. I hold certifications in AI, Python, data science, and have volunteered in community setups, demonstrating teamwork and critical thinking. I'm seeking roles in data science to apply my analytical skills and contribute to innovative solutions.
 
 ## TECHNICAL SKILLS
 - **Programming Languages:** SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark MLlib)
