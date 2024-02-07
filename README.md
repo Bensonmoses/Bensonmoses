@@ -64,16 +64,28 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 - Applied SMOTE to address class imbalance, focusing on factors like credit score and age for churn prediction.
 - 
 ### Customer Churn Prediction Using Artificial Neural Network (DL) | August 2023 - September 2023
+- In this project, we aimed to predict customer churn using a dataset with variables like CreditScore, Geography, Gender, Age, etc. We started by cleaning the data, removing irrelevant identifiers, and checking for missing values.
+- We visualized demographics and financial behaviors with histograms for better understanding. For machine learning, we encoded categorical variables, split the data into train and test sets, and normalized it.
+- We chose Logistic Regression and SVM classifiers, addressing data imbalance with SMOTE. We optimized model parameters, particularly for SVM, using grid search. Our evaluation focused on accuracy, precision, recall, and F1 score to assess model performance.
+- The goal was to develop a reliable churn prediction model to inform retention strategies, enhancing customer loyalty through accurate predictions and iterative model refinement.
+
 
 ### Linear Discriminant Analysis for each pair of the Iris Flowers and their classes (ML) | July 2023 - August 2023
+- I analyzed the Iris dataset by first ensuring no missing values and visualizing the data with histograms and scatter plots. I encoded the 'class' column, split the data for training and testing, and applied LDA for dimensionality reduction.A Logistic Regression model was then trained for classification.
+- Model performance was assessed using a confusion matrix, accuracy score, K-Fold cross-validation (5 splits), and MSE. Future plans include exploring other algorithms, feature engineering, hyperparameter tuning, and enhancing model performance through scaling, feature selection, handling class imbalance, and regularization, aiming for continuous improvement in classifying Iris species.
 
 ### Titanic Survival Prediction (ML) | June 2023 - July 2023
+- In the Titanic dataset project, we utilized Pandas, NumPy, Seaborn, and Matplotlib for data handling and visualization. Our exploratory data analysis (EDA) featured visualizing missing data, analyzing "Survived" variable by gender, and passenger class distribution.
+- We cleaned the data by addressing missing values, dropping irrelevant columns, and converting categorical features into numerical forms. We trained Logistic Regression and SVM models, achieving around 81% accuracy with both. Fine-tuning the SVM model through GridSearch identified optimal parameters. Testing on the test dataset, Logistic Regression predicted more survivors than SVM.
+- The project highlighted Logistic Regression's slight superiority in accuracy, though model selection could vary based on different considerations like interpretability and project needs.
 
 ### House price prediction using Principal Component Analysis and Logistic Regression (ML) | May 2023 - June 2023
-
-### Predicting the cool load using Energy Efficency dataset with Lasso - Ridge - ElasticNet Models (ML) | April 2023 - May 2023
+- In this housing dataset project, we used Pandas for data loading, finding no missing values among 545 rows. We identified strong positive correlations between "price" and features like "area" and "bathrooms". After preprocessing with one-hot encoding and standardizing numerical features, we split the data (70:30) and scaled it. Despite using Logistic Regression, which is less suitable for regression tasks, we applied PCA for dimensionality reduction, which captured significant variance.
+- Evaluation metrics indicated high prediction errors and a negative R2 score, suggesting model inadequacy. A scatter plot showed predicted vs. actual values. The project concluded that Logistic Regression was suboptimal for predicting housing prices, highlighting the need for alternative approaches and further model refinement.
 
 ### Credit-Card-Fraud-Detection | 
+- This project focuses on credit card fraud detection, incorporating data loading, preprocessing, duplicate removal, and exploratory data analysis (EDA) to understand the dataset's characteristics. It balances the dataset to address class imbalance, standardizes features for model input, and splits data into training (70%) and testing (30%) sets.
+- The project evaluates multiple models to select the most accurate one for fraud detection. Additionally, it includes building and evaluating an Artificial Neural Network (ANN) using TensorFlow/Keras, with an option for Stratified K-Fold Cross-Validation to ensure robust model performance. The summary highlights the project's comprehensive approach to fraud detection, emphasizing potential areas for further improvement, such as hyperparameter tuning and feature engineering.
 
 ### Text Summarization using Transformers – BART model
 
