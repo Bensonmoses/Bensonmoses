@@ -105,10 +105,10 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 - Coursework: Data Structures and Algorithms, OOPS, Data Base Management System
 
 ## CERTIFICATIONS / ACHIEVEMENTS
-- Elements of AI Certification, University of Alabama | January 2022
-- Introduction to Programming Using Python , HackerRank | [Certificate](https://www.hackerrank.com/certificates/8fe79bd41d2c) | September 2023
--  What Is Data Science, IBM | [Certificate](https://coursera.org/share/f77c4e9a14d533f71fd8ee98242b2614) | January 2024
--  Data Analytics Boot Camp | [Certificate](Completed Data Analytics Bootcamp gained AI insights honored by DataisGood team) | January 2024
+### Elements of AI Certification, University of Alabama | January 2022
+### Introduction to Programming Using Python , HackerRank | [Certificate](https://www.hackerrank.com/certificates/8fe79bd41d2c) | September 2023
+### What Is Data Science, IBM | [Certificate](https://coursera.org/share/f77c4e9a14d533f71fd8ee98242b2614) | January 2024
+### Data Analytics Boot Camp | [Certificate](Completed Data Analytics Bootcamp gained AI insights honored by DataisGood team) | January 2024
 
 ## VOLUNTEERING
 
@@ -119,10 +119,7 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 - Contributed to the success of community events at Hoboken Grace.
 
 ### Friday Night Social Gatherings Participant | International Friendships, Inc. July 2023 - Present
-### Active member of IFI (International Fellowship) community, regularly attending Friday night gatherings.
-
-### Engage in social activities, including board games and discussions on various topics, fostering a sense of community and connection.
-
-### Contribute to meaningful conversations about the Bible and social issues, promoting personal and spiritual growth.
-
-### Volunteered to assist in setting up chairs and organizing meeting spaces, demonstrating dedication to enhancing the group's experience.
+- Active member of IFI (International Fellowship) community, regularly attending Friday night gatherings.
+- Engage in social activities, including board games and discussions on various topics, fostering a sense of community and connection.
+- Contribute to meaningful conversations about the Bible and social issues, promoting personal and spiritual growth.
+- Volunteered to assist in setting up chairs and organizing meeting spaces, demonstrating dedication to enhancing the group's experience.
