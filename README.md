@@ -62,6 +62,25 @@ I'm a recent Computer Science Master's graduate with a focus on machine learning
 ### Bank Churn SMOTE Imbalance dataset using Logistic Regression and SVM (ML) | September 2022 – October 2022
 - Employed Matplotlib for data visualization, split and scaled data for a Logistic Regression and SVM classifier model to predict bank client churn.
 - Applied SMOTE to address class imbalance, focusing on factors like credit score and age for churn prediction.
+- 
+### Customer Churn Prediction Using Artificial Neural Network (DL) | August 2023 - September 2023
+
+### Linear Discriminant Analysis for each pair of the Iris Flowers and their classes (ML) | July 2023 - August 2023
+
+### Titanic Survival Prediction (ML) | June 2023 - July 2023
+
+### House price prediction using Principal Component Analysis and Logistic Regression (ML) | May 2023 - June 2023
+
+### Predicting the cool load using Energy Efficency dataset with Lasso - Ridge - ElasticNet Models (ML) | April 2023 - May 2023
+
+### Credit-Card-Fraud-Detection | 
+
+### Text Summarization using Transformers – BART model
+
+### Land Mines Classifying
+
+
+
 
 ## EDUCATION
 
