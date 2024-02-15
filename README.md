@@ -47,12 +47,17 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 #### Student Food service Worker | November 2022 – September 2023
 - Fulfilled orders for packed meals in a fast-paced environment while ensuring meal quality and efficiency.
 
-## ACADEMIC PROJECTS
+## ACADEMIC DEEP LEARNING PROJECTS
 
 ### Predicting Student Performance Based on Their Exam Marks (ML Project) | [Link](https://github.com/Bensonmoses/Predicting-Student-Performance-Based-on-Exam-Marks.git) | January 2023 – Present
 - Forecasted student performance in mathematics based on performance in various subjects and everyday activities.
 - Obtained and pre-processed dataset from Kaggle, and trained different machine-learning models.
 - Model with 89% accuracy deployed model on a web app employing Amazon Web Service Elastic Beanstalk.
+
+### Text Summarization using Transformers – BART model | [Link]() |
+
+
+## ACADEMIC MACHINE LEARNING PROJECTS
 
 ### Predicting Cooling Load with Lasso-Ridge-Elastic Net Models (ML Project) | [Link]() | November 2022 – December 2022
 - Performed cooling load estimation using Lasso, Ridge, and Elastic Net regression models.
@@ -87,12 +92,11 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 - This project focuses on credit card fraud detection, incorporating data loading, preprocessing, duplicate removal, and exploratory data analysis (EDA) to understand the dataset's characteristics. It balances the dataset to address class imbalance, standardizes features for model input, and splits data into training (70%) and testing (30%) sets.
 - The project evaluates multiple models to select the most accurate one for fraud detection. Additionally, it includes building and evaluating an Artificial Neural Network (ANN) using TensorFlow/Keras, with an option for Stratified K-Fold Cross-Validation to ensure robust model performance. The summary highlights the project's comprehensive approach to fraud detection, emphasizing potential areas for further improvement, such as hyperparameter tuning and feature engineering.
 
-### Text Summarization using Transformers – BART model | [Link]() |
-
 ### Land Mines Classifying | [Link]() |
 
+## ACADEMIC BUSSINESS ANALYST / DATA ANALYST PROJECTS DASHBOARD CREATING
 
-
+### Road Accident Dashboard | [Link]()
 
 ## EDUCATION
 
