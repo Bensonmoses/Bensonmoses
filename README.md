@@ -97,6 +97,13 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 ## ACADEMIC BUSSINESS ANALYST / DATA ANALYST PROJECTS DASHBOARD CREATING
 
 ### Road Accident Dashboard | [Link]()
+- Developed a comprehensive road accidents dashboard in Excel.
+- Cleaned and preprocessed a large dataset of 3.07 million rows.
+- Utilized pivot tables and charts for data analysis, focusing on factors such as accident severity and vehicle type.
+- Created visually appealing visualizations including doughnut charts and treemaps.
+- Designed a user-friendly dashboard with filter panels for easy exploration of accident probabilities based on different factors.
+- Currently working on creating a data analysis sheet to assess future accident likelihood.
+- Demonstrated proficiency in data cleaning, analysis, visualization, and dashboard creation using Excel.
 
 ## EDUCATION
 
