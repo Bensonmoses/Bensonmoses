@@ -56,6 +56,11 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 
 ### Text Summarization using Transformers – BART model | [Link]() |
 
+### Next Word Prediction Using LSTM | Link
+•	The project delves into the application of Long Short-Term Memory (LSTM) neural networks for next word prediction, a critical aspect of natural language processing. By preprocessing publicly available datasets from sources like Gutenberg or Wikipedia and constructing an LSTM model using TensorFlow and Keras in Python, the team demonstrates the model's ability to effectively capture long-term dependencies within text data. 
+•	Through iterative training processes and evaluation using metrics such as accuracy and perplexity, the LSTM model showcases impressive performance in predicting the next word with high precision. The study not only underscores the superiority of LSTM models over traditional approaches like Recurrent Neural Networks (RNNs) but also suggests avenues for future research, including comparative analyses and deeper investigations into the internal mechanisms of LSTM for improved interpretability of prediction results.
+•	Overall, the project highlights the potential of LSTM models in language modeling tasks and provides valuable insights for further advancements in natural language processing.
+
 
 ## ACADEMIC MACHINE LEARNING PROJECTS
 
