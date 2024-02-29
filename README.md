@@ -20,7 +20,7 @@
 
 
 ## PROFILE SUMMARY
-I'm a Master's graduate in Computer Science with a focus on machine learning and data analytics, skilled in programming (SQL, Python), data visualization (Matplotlib, Seaborn, Tableau), and deep learning models (ANNs, CNNs, RNNs). My experience includes a data science internship with BCG, notetaking for deep learning courses, and various projects on predicting student performance, cooling load estimation, bank churn, and customer churn prediction. I hold certifications in AI, Python, data science, and have volunteered in community setups, demonstrating teamwork and critical thinking. I'm seeking roles in data science to apply my analytical skills and contribute to innovative solutions.
+I graduated with a Master's degree in Computer Science from Stevens Institute of Technology in December 2023. My Bachelor of Technology degree is in Computer Science & Engineering. I am a highly motivated and detail-oriented Master's graduate in Computer Science with a focus on machine learning and data analytics. Skilled in programming languages including SQL and Python, with expertise in data visualization and deep learning models. Experienced in applying machine learning techniques to real-world problems and delivering actionable insights. Seeking roles in data science to leverage my analytical skills and contribute to innovative solutions.
 
 ## TECHNICAL SKILLS
 - **Programming Languages:** SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark MLlib)
@@ -43,7 +43,6 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 ### Stevens Institute of Technology | Hoboken, NJ
 #### Notetaker for CS 583 (Deep Learning) | September 2023 – December 2023
 - Prepared lecture notes throughout each week for CS 583 student with a physical disability, covering Deep Learning topics such as multilayer perceptron, backpropagation, stochastic gradient descent, and regularization.
-
 #### Student Food service Worker | November 2022 – September 2023
 - Fulfilled orders for packed meals in a fast-paced environment while ensuring meal quality and efficiency.
 
