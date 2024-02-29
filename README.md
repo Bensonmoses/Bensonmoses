@@ -34,7 +34,7 @@ I graduated with a Master's degree in Computer Science from Stevens Institute of
 
 ## WORK EXPERIENCE
 
-### BCG Data Science Job Simulation on Forage | Virtual Internship | [Link](https://github.com/Bensonmoses/BCG-Data-Science-Job-Simulation-on-Forage.git) January 2024
+### BCG Data Science Job Simulation on Forage | Virtual Internship | [Link](https://github.com/Bensonmoses/BCG-Data-Science-Job-Simulation-on-Forage.git) | January 2024 - Febuary 2024
 - Conducted a detailed customer churn analysis for XYZ Analytics, demonstrating advanced data analytics capabilities in identifying key client data and developing a strategic investigative approach.
 - Performed effective data analysis employing Python, notably Pandas and NumPy, and engaged in data visualization for insightful trend analysis.
 - Engineered and optimized a Random Forest model, attaining 85% accuracy in predicting customer churn.
