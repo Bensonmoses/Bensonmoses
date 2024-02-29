@@ -49,16 +49,18 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 
 ## ACADEMIC DEEP LEARNING PROJECTS
 
-### Predicting Student Performance Based on Their Exam Marks (ML Project) | [Link](https://github.com/Bensonmoses/Predicting-Student-Performance-Based-on-Exam-Marks.git) | January 2023 – Present
-- Forecasted student performance in mathematics based on performance in various subjects and everyday activities.
-- Obtained and pre-processed dataset from Kaggle, and trained different machine-learning models.
-- Model with 89% accuracy deployed model on a web app employing Amazon Web Service Elastic Beanstalk.
+### BERT Tweet Sentiment Analysis with Tweets | [Link](https://github.com/Bensonmoses/BERTweetSent-Deep-Sentiment-Dive-with-tweets.git) | January 2024 - Present
 
-### Text Summarization using Transformers – BART model | [Link]() |
+- The "BERTweetSent-Deep Sentiment Dive with Tweets" project aimed to accurately predict tweet sentiments as positive or negative using the BERT model.
+- This involved key steps such as importing necessary packages, preparing and preprocessing the Twitter dataset, balancing the dataset, tokenizing tweets, and building a sentiment classification model.
+- The model underwent training and evaluation, achieving high accuracy in sentiment classification. The project identified areas for improvement and suggested future directions for enhancing model performance, demonstrating BERT's effectiveness in sentiment analysis on Twitter data.
+
+### Text Summarization using Transformers – BART model | [Link]() | January 2024 - Present
 
 - The project explores text summarization using both a stacked LSTM model and the BART model, a transformer-based large language model. Text summarization involves condensing a lengthy text into a concise summary while retaining its key information.
 - The team implements these models on datasets such as Amazon fine food reviews and CNN/Daily Mail articles, aiming to generate abstractive summaries that go beyond mere extraction of important sentences. Preprocessing steps involve cleaning and transforming the data to make it suitable for model input.
 - The stacked LSTM model utilizes multiple layers of LSTM units to capture complex sequential patterns, while the BART model employs a transformer architecture for encoding and decoding text. Results from these implementations are aimed at showcasing the effectiveness of transformer-based models in abstractive summarization tasks, offering insights into their potential applications in natural language processing.
+  
 ### Next Word Prediction Using LSTM | Link
 •	The project delves into the application of Long Short-Term Memory (LSTM) neural networks for next word prediction, a critical aspect of natural language processing. By preprocessing publicly available datasets from sources like Gutenberg or Wikipedia and constructing an LSTM model using TensorFlow and Keras in Python, the team demonstrates the model's ability to effectively capture long-term dependencies within text data. 
 •	Through iterative training processes and evaluation using metrics such as accuracy and perplexity, the LSTM model showcases impressive performance in predicting the next word with high precision. The study not only underscores the superiority of LSTM models over traditional approaches like Recurrent Neural Networks (RNNs) but also suggests avenues for future research, including comparative analyses and deeper investigations into the internal mechanisms of LSTM for improved interpretability of prediction results.
@@ -66,6 +68,11 @@ I'm a Master's graduate in Computer Science with a focus on machine learning and
 
 
 ## ACADEMIC MACHINE LEARNING PROJECTS
+
+### Predicting Student Performance Based on Their Exam Marks (ML Project) | [Link](https://github.com/Bensonmoses/Predicting-Student-Performance-Based-on-Exam-Marks.git) | January 2024 – Present
+- Forecasted student performance in mathematics based on performance in various subjects and everyday activities.
+- Obtained and pre-processed dataset from Kaggle, and trained different machine-learning models.
+- Model with 89% accuracy deployed model on a web app employing Amazon Web Service Elastic Beanstalk.
 
 ### Predicting Cooling Load with Lasso-Ridge-Elastic Net Models (ML Project) | [Link]() | November 2022 – December 2022
 - Performed cooling load estimation using Lasso, Ridge, and Elastic Net regression models.
