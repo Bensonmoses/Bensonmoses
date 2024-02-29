@@ -140,13 +140,13 @@ I graduated with a Master's degree in Computer Science from Stevens Institute of
 
 ## VOLUNTEERING
 
-### Volunteer Set-up Coordinator at Hoboken Grace | Hoboken Grace Community Church May 2022 - Present
+### Volunteer Set-up Coordinator at Hoboken Grace | Hoboken Grace Community Church | May 2022 - Present
 - Responsible for setting up chairs, signboards, directional flags, and audiovisual equipment for weekly meetings and events.
 - Ensured a well-organized and welcoming environment for attendees.
 - Demonstrated strong attention to detail and time management skills.
 - Contributed to the success of community events at Hoboken Grace.
 
-### Friday Night Social Gatherings Participant | International Friendships, Inc. July 2023 - Present
+### Friday Night Social Gatherings Participant | International Friendships, Inc. | July 2023 - Present
 - Active member of IFI (International Fellowship) community, regularly attending Friday night gatherings.
 - Engage in social activities, including board games and discussions on various topics, fostering a sense of community and connection.
 - Contribute to meaningful conversations about the Bible and social issues, promoting personal and spiritual growth.
