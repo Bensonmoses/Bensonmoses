@@ -20,12 +20,12 @@
 
 
 ## PROFILE SUMMARY
-I graduated with a Master's degree in Computer Science from Stevens Institute of Technology in December 2023. My Bachelor of Technology degree is in Computer Science & Engineering. I am a highly motivated and detail-oriented Master's graduate in Computer Science with a focus on machine learning and data analytics. Skilled in programming languages including SQL and Python, with expertise in data visualization and deep learning models. Experienced in applying machine learning techniques to real-world problems and delivering actionable insights. Seeking roles in data science to leverage my analytical skills and contribute to innovative solutions.
+Experienced Data Engineer with proficiency in building and optimizing scalable ETL pipelines and data solutions. Skilled in leveraging cloud technologies (AWS, Azure, GCP), big data tools, and programming languages (Python, SQL, PySpark) to process, analyze, and visualize large datasets. Adept at delivering actionable insights through tools like Tableau, OBIEE, and Power BI. Proven ability to collaborate with cross-functional teams to support business decision-making with advanced reporting and data integration strategies.
 
 ## TECHNICAL SKILLS
-- **Programming Languages:** SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark MLlib)
+- **Programming Languages:** SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark, MLlib)
 - **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
-- **Databases:** Hadoop, Apache Spark
+- **Cloud Platforms:** AWS (Glue, Lambda, S3, EMR), Azure (ADF, Databricks), GCP (BigQuery, Dataflow)  
 - **Data Science Techniques & Libraries:** Supervised Learning, Unsupervised Learning, PyTorch, TensorFlow
 - **Mathematics For Machine Learning & Deep Learning:** Algebra, Probability, Statistics, Calculus, Matrices
 - **Deep Learning Models:** Artificial Neural Networks, Convolutional and Recurrent Neural Networks
@@ -34,19 +34,58 @@ I graduated with a Master's degree in Computer Science from Stevens Institute of
 
 ## WORK EXPERIENCE
 
+## Azure Data Engineer | Novozen Healthcare LLC | Woodbridge Township, NJ                                       July 2024 – Present  
+-	Extracted and loaded data from multiple sources into Azure Data Lake Storage using Azure Data Factory.
+-	Transformed data with Azure Databricks, leveraging PySpark and SQL to process and convert data from bronze to silver and silver to gold levels using Parquet files.
+-	Built and optimized approximately 100 data pipelines and strategically paused non-critical pipelines during holidays to minimize costs.
+-	Designed views and stored processed data in Azure Synapse Analytics to enable seamless analytics and reporting.
+-	Integrated Azure DevOps for version control and CI/CD workflows, ensuring that whenever developers pushed code to Azure Repos, automated triggers initiated pipeline builds and deployments.
+-	Orchestrated complex workflows using Apache Airflow to schedule, monitor, and manage data pipelines, ensuring high reliability and scalability for ETL processes.
+-	Automated pipeline execution to load and process data in Azure Data Factory and Azure Databricks upon code changes, ensuring consistency and quality.
+-	Created interactive dashboards using Power BI to monitor KPIs and support business decisions.
+Environment: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, PySpark, SQL, Parquet, Azure Synapse Analytics, Power BI, Python, Apache Airflow, Azure DevOps
+
+## GCP Data Engineer | Vetforce Solution | Florida, US                                                                      December 2023 – June 2024  
+-	As a team at Vetforce Solution, we implemented a robust data pipeline leveraging Google Cloud Pub/Sub to ingest real-time data from various sources, including IoT devices, into the cloud. We processed this data using Dataflow combined with Apache Beam for real-time stream analytics. Once processed, the data was stored in Cloud Storage, and transformed data was loaded into BigQuery for advanced analytics.
+-	To empower stakeholders with real-time insights, we integrated Power BI, enabling instant reporting of processed data with minimal latency. For batch data processing, we ingested data from multiple sources using Dataflow, stored it in Cloud Storage, and then transformed the data using Dataflow and Python before loading it into BigQuery for further analysis and reporting.
+-	Our team utilized Cloud Composer to orchestrate and automate the entire data pipeline workflow, ensuring smooth task scheduling, management, and execution. Additionally, we integrated Jenkins to automate the build, test, and deployment of data pipelines, enhancing our CI/CD pipeline and reducing manual intervention.
+-	To streamline collaboration and ensure continuous code updates, we employed GitHub for version control and implemented Webhooks to automate notifications and trigger actions for code changes, improving workflow efficiency and team collaboration
+Environment :: Google Cloud Pub/Sub, Google Cloud Dataflow, Apache Beam, Google Cloud Storage, BigQuery, Power BI, Cloud Composer, Jenkins,GitHub
+
+## AWS Data Engineer | Sloka Technologies | Houston, Texas                                                 January 2023 – November 2023  
+-	Built scalable ETL workflows with AWS Glue for structured and unstructured data.  
+-	Processed streaming data with Kinesis and real-time analytics with Athena.  
+-	Developed predictive models using SageMaker to forecast trends and behavior.  
+Environment: AWS Glue, Lambda, Kinesis, Redshift, Athena, QuickSight, SageMaker  
+
+## Data Warehouse Developer | HSBC | Hyderabad, India                                                                 July 2020 – December 2021  
+-	Designed and managed SQL Server databases, optimized queries, and created SSIS packages.  
+-	Built interactive reports with SSRS and OBIEE for business stakeholders.  
+-	Collaborated with business users to gather reporting requirements and ensure data accuracy.  
+Environment: SQL Server, OBIEE, SSRS, SSIS  
+
+## Junior BI Developer Intern | Infoziant | Hyderabad, India                                                                      May 2019 – June 2020  
+- Developed OBIEE dashboards and reports with prompts, filters, and interactive elements.  
+-	Conducted in-depth analysis of data warehouse tables to support business reporting needs.  
+Environment: OBIEE, SQL, Oracle 11g  
+
+
+
+### Stevens Institute of Technology | Hoboken, NJ
+#### Notetaker for CS 583 (Deep Learning) | September 2023 – December 2023
+- Prepared lecture notes throughout each week for CS 583 student with a physical disability, covering Deep Learning topics such as multilayer perceptron, backpropagation, stochastic gradient descent, and regularization.
+  
+#### Student Food service Worker | November 2022 – September 2023
+- Fulfilled orders for packed meals in a fast-paced environment while ensuring meal quality and efficiency.
+
+## ACADEMIC DEEP LEARNING PROJECTS
+
 ### BCG Data Science Job Simulation on Forage | Virtual Internship | [Link](https://github.com/Bensonmoses/BCG-Data-Science-Job-Simulation-on-Forage.git) | January 2024 - Febuary 2024
 - Conducted a detailed customer churn analysis for XYZ Analytics, demonstrating advanced data analytics capabilities in identifying key client data and developing a strategic investigative approach.
 - Performed effective data analysis employing Python, notably Pandas and NumPy, and engaged in data visualization for insightful trend analysis.
 - Engineered and optimized a Random Forest model, attaining 85% accuracy in predicting customer churn.
 - Prepared a concise executive summary for the Associate Director, providing actionable insights for strategic decision-making based on thorough analysis.
-
-### Stevens Institute of Technology | Hoboken, NJ
-#### Notetaker for CS 583 (Deep Learning) | September 2023 – December 2023
-- Prepared lecture notes throughout each week for CS 583 student with a physical disability, covering Deep Learning topics such as multilayer perceptron, backpropagation, stochastic gradient descent, and regularization.
-#### Student Food service Worker | November 2022 – September 2023
-- Fulfilled orders for packed meals in a fast-paced environment while ensuring meal quality and efficiency.
-
-## ACADEMIC DEEP LEARNING PROJECTS
+  
 
 ### BERT Tweet Sentiment Analysis with Tweets | [Link](https://github.com/Bensonmoses/BERTweetSent-Deep-Sentiment-Dive-with-tweets.git) | January 2024 - Present
 
