@@ -59,7 +59,14 @@ Environment :: Google Cloud Pub/Sub, Google Cloud Dataflow, Apache Beam, Google 
 -	Built scalable ETL workflows with AWS Glue for structured and unstructured data.  
 -	Processed streaming data with Kinesis and real-time analytics with Athena.  
 -	Developed predictive models using SageMaker to forecast trends and behavior.  
-Environment: AWS Glue, Lambda, Kinesis, Redshift, Athena, QuickSight, SageMaker  
+Environment: AWS Glue, Lambda, Kinesis, Redshift, Athena, QuickSight, SageMaker
+
+### Stevens Institute of Technology | Hoboken, NJ
+#### Notetaker for CS 583 (Deep Learning) | September 2023 – December 2023
+- Prepared lecture notes throughout each week for CS 583 student with a physical disability, covering Deep Learning topics such as multilayer perceptron, backpropagation, stochastic gradient descent, and regularization.
+  
+#### Student Food service Worker | January 2022 – September 2023
+- Fulfilled orders for packed meals in a fast-paced environment while ensuring meal quality and efficiency.
 
 ### Data Warehouse Developer | HSBC
 #### Hyderabad, India | July 2020 – December 2021  
@@ -74,14 +81,6 @@ Environment: SQL Server, OBIEE, SSRS, SSIS
 -	Conducted in-depth analysis of data warehouse tables to support business reporting needs.  
 Environment: OBIEE, SQL, Oracle 11g  
 
-
-
-### Stevens Institute of Technology | Hoboken, NJ
-#### Notetaker for CS 583 (Deep Learning) | September 2023 – December 2023
-- Prepared lecture notes throughout each week for CS 583 student with a physical disability, covering Deep Learning topics such as multilayer perceptron, backpropagation, stochastic gradient descent, and regularization.
-  
-#### Student Food service Worker | November 2022 – September 2023
-- Fulfilled orders for packed meals in a fast-paced environment while ensuring meal quality and efficiency.
 
 ## ACADEMIC DEEP LEARNING PROJECTS
 
