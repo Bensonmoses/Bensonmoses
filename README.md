@@ -35,7 +35,7 @@ Experienced Data Engineer with proficiency in building and optimizing scalable E
 ## WORK EXPERIENCE
 
 ## Azure Data Engineer | Novozen Healthcare LLC
-## Woodbridge Township, NJ | July 2024 – Present  
+### Woodbridge Township, NJ | July 2024 – Present  
 -	Extracted and loaded data from multiple sources into Azure Data Lake Storage using Azure Data Factory.
 -	Transformed data with Azure Databricks, leveraging PySpark and SQL to process and convert data from bronze to silver and silver to gold levels using Parquet files.
 -	Built and optimized approximately 100 data pipelines and strategically paused non-critical pipelines during holidays to minimize costs.
@@ -47,7 +47,7 @@ Experienced Data Engineer with proficiency in building and optimizing scalable E
 Environment: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, PySpark, SQL, Parquet, Azure Synapse Analytics, Power BI, Python, Apache Airflow, Azure DevOps
 
 ## GCP Data Engineer | Vetforce Solution
-## Florida, US | December 2023 – June 2024  
+### Florida, US | December 2023 – June 2024  
 -	As a team at Vetforce Solution, we implemented a robust data pipeline leveraging Google Cloud Pub/Sub to ingest real-time data from various sources, including IoT devices, into the cloud. We processed this data using Dataflow combined with Apache Beam for real-time stream analytics. Once processed, the data was stored in Cloud Storage, and transformed data was loaded into BigQuery for advanced analytics.
 -	To empower stakeholders with real-time insights, we integrated Power BI, enabling instant reporting of processed data with minimal latency. For batch data processing, we ingested data from multiple sources using Dataflow, stored it in Cloud Storage, and then transformed the data using Dataflow and Python before loading it into BigQuery for further analysis and reporting.
 -	Our team utilized Cloud Composer to orchestrate and automate the entire data pipeline workflow, ensuring smooth task scheduling, management, and execution. Additionally, we integrated Jenkins to automate the build, test, and deployment of data pipelines, enhancing our CI/CD pipeline and reducing manual intervention.
@@ -55,21 +55,21 @@ Environment: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, PySp
 Environment :: Google Cloud Pub/Sub, Google Cloud Dataflow, Apache Beam, Google Cloud Storage, BigQuery, Power BI, Cloud Composer, Jenkins,GitHub
 
 ## AWS Data Engineer | Sloka Technologies
-## Houston, Texas | January 2023 – November 2023  
+### Houston, Texas | January 2023 – November 2023  
 -	Built scalable ETL workflows with AWS Glue for structured and unstructured data.  
 -	Processed streaming data with Kinesis and real-time analytics with Athena.  
 -	Developed predictive models using SageMaker to forecast trends and behavior.  
 Environment: AWS Glue, Lambda, Kinesis, Redshift, Athena, QuickSight, SageMaker  
 
 ## Data Warehouse Developer | HSBC
-## Hyderabad, India | July 2020 – December 2021  
+### Hyderabad, India | July 2020 – December 2021  
 -	Designed and managed SQL Server databases, optimized queries, and created SSIS packages.  
 -	Built interactive reports with SSRS and OBIEE for business stakeholders.  
 -	Collaborated with business users to gather reporting requirements and ensure data accuracy.  
 Environment: SQL Server, OBIEE, SSRS, SSIS  
 
 ## Junior BI Developer Intern | Infoziant
-##Hyderabad, India | May 2019 – June 2020  
+### Hyderabad, India | May 2019 – June 2020  
 - Developed OBIEE dashboards and reports with prompts, filters, and interactive elements.  
 -	Conducted in-depth analysis of data warehouse tables to support business reporting needs.  
 Environment: OBIEE, SQL, Oracle 11g  
