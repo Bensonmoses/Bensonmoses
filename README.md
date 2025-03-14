@@ -20,7 +20,7 @@
 
 
 ## PROFILE SUMMARY
-Experienced Data Engineer with proficiency in building and optimizing scalable ETL pipelines and data solutions. Skilled in leveraging cloud technologies (AWS, Azure, GCP), big data tools, and programming languages (Python, SQL, PySpark) to process, analyze, and visualize large datasets. Adept at delivering actionable insights through tools like Tableau, OBIEE, and Power BI. Proven ability to collaborate with cross-functional teams to support business decision-making with advanced reporting and data integration strategies.
+Experienced Data Engineer with 4.5 years of expertise in building and optimizing scalable ETL pipelines, machine learning models, and data analytics solutions. Skilled in leveraging cloud technologies (AWS, Azure, GCP) and big data tools to process, analyze, and visualize large datasets. Adept at delivering actionable insights using tools like Tableau, OBIEE, and Power BI. Strong background in machine learning, predictive modeling, and statistical analysis, supporting data-driven decision-making. Proven ability to collaborate with cross-functional teams and implement advanced data integration strategies.
 
 ## EDUCATION
 
@@ -34,27 +34,23 @@ Experienced Data Engineer with proficiency in building and optimizing scalable E
 
 ## TECHNICAL SKILLS
 - **Programming Languages:** SQL, Python (Pandas, NumPy, Scikit-Learn, PySpark, MLlib)
+- **Machine Learning & Data Analytics:** Supervised Learning, Unsupervised Learning, Predictive Modeling, Statistical Analysis, TensorFlow, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
-- **Cloud Platforms:** AWS (Glue, Lambda, S3, EMR), Azure (ADF, Databricks), GCP (BigQuery, Dataflow)  
-- **Data Science Techniques & Libraries:** Supervised Learning, Unsupervised Learning, PyTorch, TensorFlow
-- **Mathematics For Machine Learning & Deep Learning:** Algebra, Probability, Statistics, Calculus, Matrices
+- **Cloud Platforms:** AWS (Glue, Lambda, S3, EMR), Azure (ADF, Databricks), GCP (BigQuery, Dataflow)
 - **Deep Learning Models:** Artificial Neural Networks, Convolutional and Recurrent Neural Networks
+- **Mathematics for ML & Deep Learning:** Algebra, Probability, Statistics, Calculus, Matrices
 - **IDEs:** Visual Studio Code, PyCharm, Jupyter Notebook
-- **Soft Skills:** Problem-Solving, communication skills, Teamwork and Collaboration, Critical Thinking, cross-functional
+- **Soft Skills:** Problem-Solving, Communication, Teamwork, Critical Thinking, Cross-Functional Collaboration
 
 ## WORK EXPERIENCE
 
 ### Azure Data Engineer | Novozen Healthcare LLC
 #### Woodbridge Township, NJ | December 2023 – Present  
--	Extracted and loaded data from multiple sources into Azure Data Lake Storage using Azure Data Factory.
--	Transformed data with Azure Databricks, leveraging PySpark and SQL to process and convert data from bronze to silver and silver to gold levels using Parquet files.
--	Built and optimized approximately 100 data pipelines and strategically paused non-critical pipelines during holidays to minimize costs.
--	Designed views and stored processed data in Azure Synapse Analytics to enable seamless analytics and reporting.
--	Integrated Azure DevOps for version control and CI/CD workflows, ensuring that whenever developers pushed code to Azure Repos, automated triggers initiated pipeline builds and deployments.
--	Orchestrated complex workflows using Apache Airflow to schedule, monitor, and manage data pipelines, ensuring high reliability and scalability for ETL processes.
--	Automated pipeline execution to load and process data in Azure Data Factory and Azure Databricks upon code changes, ensuring consistency and quality.
--	Created interactive dashboards using Power BI to monitor KPIs and support business decisions.
-Environment: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, PySpark, SQL, Parquet, Azure Synapse Analytics, Power BI, Python, Apache Airflow, Azure DevOps
+-	Developed and optimized scalable ETL pipelines using Azure Data Factory and Databricks.
+-	Processed and transformed large datasets with PySpark and SQL, improving data accessibility.
+-	Integrated Azure Synapse Analytics for seamless analytics and reporting.
+-	Designed Power BI dashboards to visualize KPIs, supporting data-driven decisions.
+-	Automated workflows using Apache Airflow and Azure DevOps for CI/CD.
 
 ### Azure Data Engineer | Vetforce Solution
 #### Florida, US | December 2023 – November 2023  
