@@ -2,14 +2,14 @@
 
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Location-New_Jersey,_U.S.-blue?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location: New Jersey, U.S."/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Looking_For-Data_Science,_Data_/_Business_Analyst,_Machine_Learning_Engineering-green?style=for-the-badge&logo=search&logoColor=white" alt="Looking For: Data Science, Data / Business Analyst, Machine Learning Engineering"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Looking_For-Data_Science,_Data_/_Business_Analyst,_Machine_Learning_Engineering-green?style=for-the-badge&logo=search&logoColor=white" alt="Looking For: Data Analyst,, Machine Learning Engineering, Data Science, Data Engineering"/></a>
 </p>
 
 
 ## Connect with me:
 <p align="left">
-  <a href="mailto:bpalapar@stevens.edu" target="_blank"><img src="https://img.shields.io/badge/Email-bpalapar@stevens.edu-9c27b0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+15516976451" target="_blank"><img src="https://img.shields.io/badge/Mobile-%2B1%20551%20697%206451-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <a href="mailto:benson.palaparthi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-benson.palaparthi@gmail.com-9c27b0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+15516972789" target="_blank"><img src="https://img.shields.io/badge/Mobile-%2B1%20551%20697%202789-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <a href="https://github.com/Bensonmoses?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/benson-moses-palaparthi-061591217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/bensonmoses" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
